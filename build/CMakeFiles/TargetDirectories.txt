@@ -1,0 +1,3 @@
+/Users/harshamac/shader/build/CMakeFiles/shader_cnn_visualizer.dir
+/Users/harshamac/shader/build/CMakeFiles/edit_cache.dir
+/Users/harshamac/shader/build/CMakeFiles/rebuild_cache.dir
