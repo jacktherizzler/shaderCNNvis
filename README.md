@@ -1,4 +1,4 @@
-# Shader-based CNN Visualizer
+# Shader-based CNN Visualizer (⚠️work in progress⚠️)
 
 A lightweight tool that visualizes the convolution operations of CNN layers in real-time using OpenGL fragment shaders. This project demonstrates how convolution operations can be efficiently performed on the GPU using custom shaders.
 
@@ -18,7 +18,7 @@ A lightweight tool that visualizes the convolution operations of CNN layers in r
 - CMake
 - STB Image (included)
 
-## Building from Source
+## Building from Source (⚠️work in progress⚠️)
 
 ```bash
 git clone https://github.com/jacktherizzler/shader-cnn-visualizer
@@ -28,7 +28,7 @@ cmake ..
 make
 ```
 
-## Usage
+## Usage (⚠️work in progress⚠️)
 
 Run the executable:
 ```bash
